@@ -1,0 +1,19 @@
+# Core LangChain (stable classic API)
+langchain==0.1.20
+langchain-core==0.1.53
+langchain-community==0.0.38
+langchain-openai==0.1.7
+
+# Embeddings & Vector DB
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0
+
+# PDF + Docs
+pypdf==4.2.0
+python-dotenv==1.0.1
+
+# Optional (future OCR / UI)
+streamlit==1.36.0
+pillow==10.4.0
+pytesseract==0.3.10
+pymupdf==1.24.9
